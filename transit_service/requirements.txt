@@ -1,0 +1,4 @@
+#dependencies required to run project
+Flask #web framework, for routes: /api/transit, for testing setup: app.test_client()
+requests #lib for making HTTP requests
+python-dotenv #lib to read and load variables from .env
